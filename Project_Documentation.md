@@ -34,7 +34,7 @@ The Admin is the **only** role with secure access to the backend control center.
 
 ## ✨ 3. Core Features
 
-1. **Smart "Cutter" Slot System:** A dynamic scheduling engine that manages up to 3 hair stylists simultaneously, preventing overlapping appointments between web users and walk-in/phone clients.
+1. **Smart "Cutter" Slot System:** A dynamic scheduling engine that manages up to 4 hair stylists simultaneously, preventing overlapping appointments between web users and walk-in/phone clients.
 2. **Unified Admin Dashboard:** A sleek, mobile-responsive control center for the Admin to run the business.
 3. **Automated Communication:** Integration with SMS gateways (Notify.lk / ShoutOUT) and WhatsApp. Once an appointment is on the grid, automated reminders are sent out to eliminate "no-shows."
 4. **QR Code Marketing:** Custom QR codes at the salon front desk. Walk-in customers can scan it to view the Client Website and book their next appointment digitally.
